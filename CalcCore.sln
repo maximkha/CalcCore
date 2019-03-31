@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcCore", "CalcCore\CalcCore.csproj", "{DBFD1650-AC13-4CB3-A27C-DCB4E116F156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFD1650-AC13-4CB3-A27C-DCB4E116F156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFD1650-AC13-4CB3-A27C-DCB4E116F156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFD1650-AC13-4CB3-A27C-DCB4E116F156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFD1650-AC13-4CB3-A27C-DCB4E116F156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B74CB49-82C2-4E54-B14C-79CED337A69D}
+	EndGlobalSection
+EndGlobal

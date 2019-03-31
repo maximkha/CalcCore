@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\CalcCore\CalcCore\bin\Debug\CalcCore.exe.config
+C:\Users\maxim\source\repos\CalcCore\CalcCore\bin\Debug\CalcCore.exe
+C:\Users\maxim\source\repos\CalcCore\CalcCore\bin\Debug\CalcCore.pdb
+C:\Users\maxim\source\repos\CalcCore\CalcCore\obj\Debug\CalcCore.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\CalcCore\CalcCore\obj\Debug\CalcCore.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\CalcCore\CalcCore\obj\Debug\CalcCore.exe
+C:\Users\maxim\source\repos\CalcCore\CalcCore\obj\Debug\CalcCore.pdb
